@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Counter Component > increments count when button is clicked > after click 1`] = `
+"<h1 data-v-9bd91872=""></h1>
+<div data-v-9bd91872="" class="card"><button data-v-9bd91872="" type="button">The count is: 6</button></div>"
+`;
+
+exports[`Counter Component > increments count when button is clicked > initial state 1`] = `
+"<h1 data-v-9bd91872=""></h1>
+<div data-v-9bd91872="" class="card"><button data-v-9bd91872="" type="button">The count is: 5</button></div>"
+`;
